@@ -19,4 +19,5 @@ Casalnuovo, Casey, et al. "A Theory of Dual Channel Constraints." Proceedings of
 
 Harman, Mark. "Automated patching techniques: the fix is in: technical perspective." Communications of the ACM 53.5 (2010): 108-108.
 
+Barr, Earl T., et al. "The plastic surgery hypothesis." Proceedings of the 22nd ACM SIGSOFT International Symposium on Foundations of Software Engineering. 2014.
 
